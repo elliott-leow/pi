@@ -1,4 +1,4 @@
-#todo:
+## todo:
 1. use RVC voice to convert to spoken english
 2. transcript that audio
 3. run through piper
